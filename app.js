@@ -64,8 +64,3 @@ app.listen(process.env.PORT ||3000, function () {
     console.log("server is running ");
 })
 
-// api key
-// 223e0975fcf10241e2cbb94cc5e07816-us21
-
-// list Id
-// 64c0f6b6cd
